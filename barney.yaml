@@ -1,0 +1,8 @@
+
+# Want Ubuntu 20.04
+# Local archive:
+
+images:
+  hello:
+    units:
+      - build: echo hello > /dest/greeting
